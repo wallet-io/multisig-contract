@@ -2,10 +2,10 @@
 multisig-contract of  walletio
 
 # 23contract.sol 
-   '2-of-3' Signatures, Use '2-of-3' Signatures. 3 private keys held by user, wallet.io and a third party institution respectively. Transaction requires 2 of them to sign
+   2-of-3 Signatures contract
 
 # mncontract.sol 
-   'm-of-n' signatures. Set 'n' total private keys and requires 'm' signatures in authorizing a transaction.
+   m-of-n Signatures contract
 
 # Contract code verification by Certik & Cheetah Mobile Security
-    the verification reports are in verigication-report.
+    
